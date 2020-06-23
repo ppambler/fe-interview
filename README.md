@@ -28,6 +28,10 @@
 
 - 写在 Issues 里边就好了
 
+## ★详解版
+
+- [JS](./JS/README.md)
+
 ## ★有哪些地方可以供你刷题？
 
 * [haizlin/fe-interview: 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！](https://github.com/haizlin/fe-interview)
